@@ -8,9 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Update="Words.txt">
-        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      </None>
       <None Update="Insanity.txt">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
